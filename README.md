@@ -9,4 +9,4 @@ Welcome to my Github page!
 <p>
 	<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Cyr1s-dev&theme=transparent)
+![trophy](https://github-profile-trophy.vercel.app/?username=Cyr1s-dev&theme=onedark)
