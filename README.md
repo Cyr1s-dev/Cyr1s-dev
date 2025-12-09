@@ -6,7 +6,7 @@ Welcome to my Github page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cyr1s-dev)
 
-<p align="center">
+<p>
   <img
     width="60%"
     src="https://github-readme-stats-cyr1s.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent"
