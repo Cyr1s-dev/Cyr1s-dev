@@ -8,7 +8,7 @@ Welcome to my Github page!
 
 <p>
   <img
-    width="60%"
+    width="40%"
     src="https://github-readme-stats-cyr1s.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent&v=1"
   />
 </p>
