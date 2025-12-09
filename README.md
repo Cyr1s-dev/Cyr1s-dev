@@ -6,7 +6,11 @@ Welcome to my Github page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cyr1s-dev)
 
-<p>
-	<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent" />
+<p align="center">
+  <img
+    width="60%"
+    src="https://github-readme-stats.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent"
+  />
+</p>
 
 ![trophy](https://stable-github-profile-trophy.vercel.app/?username=Cyr1s-dev&theme=onedark)
