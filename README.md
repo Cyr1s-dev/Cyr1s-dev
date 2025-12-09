@@ -9,7 +9,7 @@ Welcome to my Github page!
 <p align="center">
   <img
     width="60%"
-    src="https://github-readme-stats.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent"
+    src="https://github-readme-stats-cyr1s.vercel.app/api?username=Cyr1s-dev&show_icons=true&theme=transparent"
   />
 </p>
 
